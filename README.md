@@ -7,7 +7,7 @@
 - fog particles
 - falling leaf particles 
 - magic ring particles 
-- added glowing eyes particles to skull model '
+- added glowing eyes particles to skull model
 - dripping blood particles + blood puddle overlay
 - rune circle texture particle 
 - steaming particles to skull model
@@ -25,25 +25,25 @@
 - turned all prop static meshes into blueprints 
   - combining of models that came in separate meshes
   - appropriate sizing and rotation to fit into scene
-  - added light sources to all lamp like models
+  - added light sources to all lamp-like models
 - fire particles (inside fireplace)
 - candle fire 
   - animated/distorted material
   - singular particle that "displays" material
-  - combined with candle meshes and light source to make complete candle blueprints 
+  - combined with candle meshes and light sources to make complete candle blueprints 
 - portals
   - one version that constantly loops
-  - one version that juts runs once and then disappears
-  - entering portal teleport player back to entrance + spawns new exit portal there
+  - one version that just runs once and then disappears
+  - entering portal teleports player back to entrance + spawns new exit portal there
 - confetti particles
   - created new material that is similar to default material, but not lit
   - changed the default 3rd person game gun to shoot confetti instead of ball
   - added new YIPPEE! sound effect instead of the original gun sound 
-  - added setting to gun blueprint, that lets it easily be witched between default gun and confetti gun
-  - confetti gun still shoots a ball which makes it possible to push/break object, however ball is invisible to make
-    it look like the confetti blast in interacting with the surroundings
+  - added setting to gun blueprint, that lets it easily be switched between default gun and confetti gun
+  - confetti gun still shoots a ball which makes it possible to push/break objects, however, ball is invisible to make it look like the confetti blast in interacting with the surroundings
 - chaos destruction fracturing of skull mesh 
   - can be destroyed by gun (both types)
+  - created Material for skulls to make the shattered fragments disappear after a few seconds
 - Landscaping 
   - made graves in the backyard
   - added some height variation to landscape beyond the fence
