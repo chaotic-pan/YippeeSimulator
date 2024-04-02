@@ -5,7 +5,6 @@
 - added textures to house map
 - decorated interior of house
   
-  Particles
 - fog particles 
 - ember particles
 - falling leaf particles 
