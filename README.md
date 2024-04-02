@@ -4,19 +4,29 @@
 
 - added textures to house map
 - decorated interior of house
-- fog particles
+  
+  Particles
+- fog particles 
+- ember particles
 - falling leaf particles 
 - magic ring particles 
 - added glowing eyes particles to skull model
 - dripping blood particles + blood puddle overlay
-- rune circle texture particle 
+  - utalising one looping particle
+  - change the material to use a colour assigned through the particle not the material 
+- rune circle texture particle
 - steaming particles to skull model
-- particles tracing outline of skull model
+  - overlay material on the skull to give an orange outline on the mesh
+  - using the mesh as a spawn location for the particles & then animating them
+- particles tracing outline of skull model with the mesh spawn location
 
 - split floors from walls
 - house floors
-- models 
+- importing models & respective textures for the interior
 - changed default level
+
+### During the individual process
+- main menu UI + functionality
 
 ## Contribution of Liz Kintzel
 
