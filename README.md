@@ -40,7 +40,7 @@
   - changed the default 3rd person game gun to shoot confetti instead of ball
   - added new YIPPEE! sound effect instead of the original gun sound 
   - added setting to gun blueprint, that lets it easily be switched between default gun and confetti gun
-  - confetti gun still shoots a ball which makes it possible to push/break objects, however, ball is invisible to make it look like the confetti blast in interacting with the surroundings
+  - confetti gun still shoots a ball which makes it possible to push/break objects, however, ball is invisible to make it look like the confetti blast is interacting with the surroundings
 - chaos destruction fracturing of skull mesh 
   - can be destroyed by gun (both types)
   - created Material for skulls to make the shattered fragments disappear after a few seconds
