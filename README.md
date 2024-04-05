@@ -1,6 +1,6 @@
 # Unreal Game Engine Programming - Particle Project
 
-## Contribution of Eve Schütze
+## Contribution of evedoessth
 
 - added textures to house map
 - decorated interior of house
@@ -27,7 +27,7 @@
 ### During the individual process
 - main menu UI + functionality
 
-## Contribution of Liz Kintzel
+## Contribution of ChaoticPan 
 
 - build the house map
 - loaded in majority of prop models
